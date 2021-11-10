@@ -6,8 +6,11 @@ Project Title: Combating Covid-19 with IoT
 As the fight against COVID-19 continues, monitoring the pandemic’s progress has become a top priority. IoT revolution is reshaping modern healthcare systems by incorporating technological, economic, and social prospects. IoT-enabled/linked devices/applications are utilized to lower the possible spread of COVID-19 to others by early diagnosis, monitoring patients, and practicing defined protocols after patient recovery. By this project we intend to get statistics throughout the world mainly focusing on Sri Lanka.
 
 • Keep updated database about the covid-19 details in Sri Lanka daily (Daily and Total number of new cases, number of deaths, number of recovered patients)
+
 • Keep updated database about the global covid-19 details daily (Daily and Total number of new cases, number of deaths, number of recovered patients)
+
 • Get the total number of Sri Lankans, foreigners who have been treated and currently on treatment in a given hospital in Sri Lanka
+
 • Get the Covid-19 statistics (Daily and Total number of new cases, number of deaths, number of recovered patients)
 
 Data Sources
