@@ -21,12 +21,17 @@ Provides current real time situation of the COVID-19 patients reported in separa
 Components
 
 ➢ Open source API: To get required data.
+
 ➢ Node-red: To design the dashboard displaying corresponding data using the received data through APIs. To work as a MQTT Publisher.
+
 ➢ MQTT Broker: To filter messages based on topic, and then distribute them to subscribers.
+
 ➢ Node MCU: To work as a MQTT subscriber. To form an access point(server) and server webpage.
+
 ➢ Mobile (Client): To get the latest information through the server webpage.
 
 System functions and features
 
 ➢ A Node-red dashboard displaying all the intended information.
+
 ➢ A server webpage (URL) displaying all the important and relevant information.
